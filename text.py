@@ -1,0 +1,2 @@
+person_1 = "The man leans against the house with his arms crossed, he looked you up and down with condenscension before his face bunches up and he pronouces angrily 'Bugger off'"
+#Create locations which have information on what buttons do
